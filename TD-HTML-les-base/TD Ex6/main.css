@@ -1,0 +1,38 @@
+#tableau 
+{
+    
+    border-width:1px; 
+    border-style:solid; 
+    border-color:rgb(100, 7, 72);
+    width:max-content;
+}
+
+#Mr
+{
+    margin-left: 65px;
+}
+
+#nom 
+{
+    margin-left: 83px;
+}
+
+#Prénom 
+{
+    margin-left: 65px;
+}
+
+.tab
+{
+    margin-left: 130px;
+}
+
+#Téléphone 
+{
+    margin-left: 47px;
+}
+
+#E-mail 
+{
+    margin-left: 70px;
+}
